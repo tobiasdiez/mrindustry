@@ -1,0 +1,250 @@
+X;CountryCode;RegionName;RegionCode
+Aruba;ABW;Latin America & Caribbean;LAM
+Afghanistan;AFG;Asia (excl. Japan, India, and China);OAS
+Angola;AGO;Africa;AFR
+Anguilla;AIA;Latin America & Caribbean;LAM
+Aland Islands;ALA;Western Europe;WEU
+Albania;ALB;Eastern Europe & Central Asia;EECA
+Andorra;AND;Western Europe;WEU
+United Arab Emirates;ARE;Middle East;MEA
+Argentina;ARG;Latin America & Caribbean;LAM
+Armenia;ARM;Eastern Europe & Central Asia;EECA
+American Samoa;ASM;Oceania;OCE
+Antarctica;ATA;Latin America & Caribbean;LAM
+French Southern Territories;ATF;Oceania;OCE
+Antigua and Barbuda;ATG;Latin America & Caribbean;LAM
+Australia;AUS;Oceania;OCE
+Austria;AUT;Western Europe;WEU
+Azerbaijan;AZE;Eastern Europe & Central Asia;EECA
+Burundi;BDI;Africa;AFR
+Belgium;BEL;Western Europe;WEU
+Benin;BEN;Africa;AFR
+Bonaire, Sint Eustatius and Saba;BES;Latin America & Caribbean;LAM
+Burkina Faso;BFA;Africa;AFR
+Bangladesh;BGD;Asia (excl. Japan, India, and China);OAS
+Bulgaria;BGR;Eastern Europe & Central Asia;EECA
+Bahrain;BHR;Middle East;MEA
+Bahamas;BHS;Latin America & Caribbean;LAM
+Bosnia and Herzegovina;BIH;Eastern Europe & Central Asia;EECA
+Saint Barthelemy;BLM;Latin America & Caribbean;LAM
+Belarus;BLR;Eastern Europe & Central Asia;EECA
+Belize;BLZ;Latin America & Caribbean;LAM
+Bermuda;BMU;North America;NAM
+Bolivia, Plurinational State of;BOL;Latin America & Caribbean;LAM
+Brazil;BRA;Latin America & Caribbean;LAM
+Barbados;BRB;Latin America & Caribbean;LAM
+Brunei Darussalam;BRN;Asia (excl. Japan, India, and China);OAS
+Bhutan;BTN;Asia (excl. Japan, India, and China);OAS
+Bouvet Island;BVT;Latin America & Caribbean;LAM
+Botswana;BWA;Africa;AFR
+Central African Republic;CAF;Africa;AFR
+Canada;CAN;North America;NAM
+Cocos (Keeling) Islands;CCK;Oceania;OCE
+China;CHN;China;CHN
+Switzerland;CHE;Western Europe;WEU
+Chile;CHL;Latin America & Caribbean;LAM
+Cote d Ivoire;CIV;Africa;AFR
+Cameroon;CMR;Africa;AFR
+Congo, the Democratic Republic of the;COD;Africa;AFR
+Congo;COG;Africa;AFR
+Cook Islands;COK;Oceania;OCE
+Colombia;COL;Latin America & Caribbean;LAM
+Comoros;COM;Africa;AFR
+Cape Verde;CPV;Africa;AFR
+Costa Rica;CRI;Latin America & Caribbean;LAM
+Cuba;CUB;Latin America & Caribbean;LAM
+Curacao;CUW;Latin America & Caribbean;LAM
+Christmas Island;CXR;Oceania;OCE
+Cayman Islands;CYM;Latin America & Caribbean;LAM
+Cyprus;CYP;Western Europe;WEU
+Czech Republic;CZE;Eastern Europe & Central Asia;EECA
+Germany;DEU;Western Europe;WEU
+Djibouti;DJI;Africa;AFR
+Dominica;DMA;Latin America & Caribbean;LAM
+Denmark;DNK;Western Europe;WEU
+Dominican Republic;DOM;Latin America & Caribbean;LAM
+Algeria;DZA;Africa;AFR
+Ecuador;ECU;Latin America & Caribbean;LAM
+Egypt;EGY;Middle East;MEA
+Eritrea;ERI;Africa;AFR
+Western Sahara;ESH;Africa;AFR
+Spain;ESP;Western Europe;WEU
+Estonia;EST;Eastern Europe & Central Asia;EECA
+Ethiopia;ETH;Africa;AFR
+Finland;FIN;Western Europe;WEU
+Fiji;FJI;Oceania;OCE
+Falkland Islands (Malvinas);FLK;Latin America & Caribbean;LAM
+France;FRA;Western Europe;WEU
+Faroe Islands;FRO;Western Europe;WEU
+Micronesia, Federated States of;FSM;Oceania;OCE
+Gabon;GAB;Africa;AFR
+United Kingdom;GBR;Western Europe;WEU
+Georgia;GEO;Eastern Europe & Central Asia;EECA
+Guernsey;GGY;Western Europe;WEU
+Ghana;GHA;Africa;AFR
+Gibraltar;GIB;Western Europe;WEU
+Guinea;GIN;Africa;AFR
+Guadeloupe;GLP;Latin America & Caribbean;LAM
+Gambia;GMB;Africa;AFR
+Guinea-Bissau;GNB;Africa;AFR
+Equatorial Guinea;GNQ;Africa;AFR
+Greece;GRC;Western Europe;WEU
+Grenada;GRD;Latin America & Caribbean;LAM
+Greenland;GRL;North America;NAM
+Guatemala;GTM;Latin America & Caribbean;LAM
+French Guiana;GUF;Latin America & Caribbean;LAM
+Guam;GUM;Oceania;OCE
+Guyana;GUY;Latin America & Caribbean;LAM
+Hong Kong;HKG;China;CHN
+Heard Island and McDonald Islands;HMD;Oceania;OCE
+Honduras;HND;Latin America & Caribbean;LAM
+Croatia;HRV;Eastern Europe & Central Asia;EECA
+Haiti;HTI;Latin America & Caribbean;LAM
+Hungary;HUN;Eastern Europe & Central Asia;EECA
+Indonesia;IDN;Asia (excl. Japan, India, and China);OAS
+Isle of Man;IMN;Western Europe;WEU
+India;IND;India;IND
+British Indian Ocean Territory;IOT;Oceania;OCE
+Ireland;IRL;Western Europe;WEU
+Iran, Islamic Republic of;IRN;Middle East;MEA
+Iraq;IRQ;Middle East;MEA
+Iceland;ISL;Western Europe;WEU
+Israel;ISR;Middle East;MEA
+Italy;ITA;Western Europe;WEU
+Jamaica;JAM;Latin America & Caribbean;LAM
+Jersey;JEY;Western Europe;WEU
+Jordan;JOR;Middle East;MEA
+Japan;JPN;Japan;JPN
+Kazakhstan;KAZ;Eastern Europe & Central Asia;EECA
+Kenya;KEN;Africa;AFR
+Kyrgyzstan;KGZ;Eastern Europe & Central Asia;EECA
+Cambodia;KHM;Asia (excl. Japan, India, and China);OAS
+Kiribati;KIR;Oceania;OCE
+Saint Kitts and Nevis;KNA;Latin America & Caribbean;LAM
+Korea, Republic of;KOR;Asia (excl. Japan, India, and China);OAS
+Kuwait;KWT;Middle East;MEA
+Lao People's Democratic Republic;LAO;Asia (excl. Japan, India, and China);OAS
+Lebanon;LBN;Middle East;MEA
+Liberia;LBR;Africa;AFR
+Libya;LBY;Africa;AFR
+Saint Lucia;LCA;Latin America & Caribbean;LAM
+Liechtenstein;LIE;Western Europe;WEU
+Sri Lanka;LKA;Asia (excl. Japan, India, and China);OAS
+Lesotho;LSO;Africa;AFR
+Lithuania;LTU;Eastern Europe & Central Asia;EECA
+Luxembourg;LUX;Western Europe;WEU
+Latvia;LVA;Eastern Europe & Central Asia;EECA
+Macao;MAC;China;CHN
+Saint Martin (French part);MAF;Latin America & Caribbean;LAM
+Morocco;MAR;Africa;AFR
+Monaco;MCO;Western Europe;WEU
+Moldova, Republic of;MDA;Eastern Europe & Central Asia;EECA
+Madagascar;MDG;Africa;AFR
+Maldives;MDV;Asia (excl. Japan, India, and China);OAS
+Mexico;MEX;North America;NAM
+Marshall Islands;MHL;Oceania;OCE
+Macedonia, the former Yugoslav Republic of;MKD;Eastern Europe & Central Asia;EECA
+Mali;MLI;Africa;AFR
+Malta;MLT;Western Europe;WEU
+Myanmar;MMR;Asia (excl. Japan, India, and China);OAS
+Montenegro;MNE;Eastern Europe & Central Asia;EECA
+Mongolia;MNG;Asia (excl. Japan, India, and China);OAS
+Northern Mariana Islands;MNP;Oceania;OCE
+Mozambique;MOZ;Africa;AFR
+Mauritania;MRT;Africa;AFR
+Montserrat;MSR;Latin America & Caribbean;LAM
+Martinique;MTQ;Latin America & Caribbean;LAM
+Mauritius;MUS;Africa;AFR
+Malawi;MWI;Africa;AFR
+Malaysia;MYS;Asia (excl. Japan, India, and China);OAS
+Mayotte;MYT;Africa;AFR
+Namibia;NAM;Africa;AFR
+New Caledonia;NCL;Oceania;OCE
+Niger;NER;Africa;AFR
+Norfolk Island;NFK;Oceania;OCE
+Nigeria;NGA;Africa;AFR
+Nicaragua;NIC;Latin America & Caribbean;LAM
+Niue;NIU;Oceania;OCE
+Netherlands;NLD;Western Europe;WEU
+Norway;NOR;Western Europe;WEU
+Nepal;NPL;Asia (excl. Japan, India, and China);OAS
+Nauru;NRU;Oceania;OCE
+New Zealand;NZL;Oceania;OCE
+Oman;OMN;Middle East;MEA
+Pakistan;PAK;Asia (excl. Japan, India, and China);OAS
+Panama;PAN;Latin America & Caribbean;LAM
+Pitcairn;PCN;Oceania;OCE
+Peru;PER;Latin America & Caribbean;LAM
+Philippines;PHL;Asia (excl. Japan, India, and China);OAS
+Palau;PLW;Oceania;OCE
+Papua New Guinea;PNG;Oceania;OCE
+Poland;POL;Eastern Europe & Central Asia;EECA
+Puerto Rico;PRI;Latin America & Caribbean;LAM
+Korea, Democratic People's Republic of;PRK;Asia (excl. Japan, India, and China);OAS
+Portugal;PRT;Western Europe;WEU
+Paraguay;PRY;Latin America & Caribbean;LAM
+Palestine, State of;PSE;Middle East;MEA
+French Polynesia;PYF;Oceania;OCE
+Qatar;QAT;Middle East;MEA
+Reunion;REU;Africa;AFR
+Romania;ROU;Eastern Europe & Central Asia;EECA
+Russian Federation;RUS;Eastern Europe & Central Asia;EECA
+Rwanda;RWA;Africa;AFR
+Saudi Arabia;SAU;Middle East;MEA
+Sudan;SDN;Africa;AFR
+Senegal;SEN;Africa;AFR
+Singapore;SGP;Asia (excl. Japan, India, and China);OAS
+South Georgia and the South Sandwich Islands;SGS;Latin America & Caribbean;LAM
+Saint Helena, Ascension and Tristan da Cunha;SHN;Africa;AFR
+Svalbard and Jan Mayen;SJM;Western Europe;WEU
+Solomon Islands;SLB;Oceania;OCE
+Sierra Leone;SLE;Africa;AFR
+El Salvador;SLV;Latin America & Caribbean;LAM
+San Marino;SMR;Western Europe;WEU
+Somalia;SOM;Africa;AFR
+Saint Pierre and Miquelon;SPM;North America;NAM
+Serbia;SRB;Eastern Europe & Central Asia;EECA
+South Sudan;SSD;Africa;AFR
+Sao Tome and Principe;STP;Africa;AFR
+Suriname;SUR;Latin America & Caribbean;LAM
+Slovakia;SVK;Eastern Europe & Central Asia;EECA
+Slovenia;SVN;Eastern Europe & Central Asia;EECA
+Sweden;SWE;Western Europe;WEU
+Swaziland;SWZ;Africa;AFR
+Sint Maarten (Dutch part);SXM;Latin America & Caribbean;LAM
+Seychelles;SYC;Africa;AFR
+Syrian Arab Republic;SYR;Middle East;MEA
+Turks and Caicos Islands;TCA;Latin America & Caribbean;LAM
+Chad;TCD;Africa;AFR
+Togo;TGO;Africa;AFR
+Thailand;THA;Asia (excl. Japan, India, and China);OAS
+Tajikistan;TJK;Eastern Europe & Central Asia;EECA
+Tokelau;TKL;Oceania;OCE
+Turkmenistan;TKM;Eastern Europe & Central Asia;EECA
+Timor-Leste;TLS;Asia (excl. Japan, India, and China);OAS
+Tonga;TON;Oceania;OCE
+Trinidad and Tobago;TTO;Latin America & Caribbean;LAM
+Tunisia;TUN;Africa;AFR
+Turkey;TUR;Middle East;MEA
+Tuvalu;TUV;Oceania;OCE
+Taiwan, Province of China;TWN;China;CHN
+Tanzania, United Republic of;TZA;Africa;AFR
+Uganda;UGA;Africa;AFR
+Ukraine;UKR;Eastern Europe & Central Asia;EECA
+United States Minor Outlying Islands;UMI;Oceania;OCE
+Uruguay;URY;Latin America & Caribbean;LAM
+United States;USA;North America;NAM
+Uzbekistan;UZB;Eastern Europe & Central Asia;EECA
+Holy See (Vatican City State);VAT;Western Europe;WEU
+Saint Vincent and the Grenadines;VCT;Latin America & Caribbean;LAM
+Venezuela, Bolivarian Republic of;VEN;Latin America & Caribbean;LAM
+Virgin Islands, British;VGB;Latin America & Caribbean;LAM
+Virgin Islands, U.S.;VIR;Latin America & Caribbean;LAM
+Viet Nam;VNM;Asia (excl. Japan, India, and China);OAS
+Vanuatu;VUT;Oceania;OCE
+Wallis and Futuna;WLF;Oceania;OCE
+Samoa;WSM;Oceania;OCE
+Yemen;YEM;Middle East;MEA
+South Africa;ZAF;Africa;AFR
+Zambia;ZMB;Africa;AFR
+Zimbabwe;ZWE;Africa;AFR
